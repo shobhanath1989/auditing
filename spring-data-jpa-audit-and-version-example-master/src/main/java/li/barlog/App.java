@@ -10,7 +10,7 @@ import li.barlog.domain.User;
 import li.barlog.repository.FooRepository;
 import li.barlog.repository.UserRepository;
 import li.barlog.service.CurrentUserService;
-
+//shobhanath
 @SpringBootApplication
 public class App implements CommandLineRunner {
 	public static void main(String[] args) {

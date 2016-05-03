@@ -11,6 +11,7 @@ import li.barlog.repository.FooRepository;
 import li.barlog.repository.UserRepository;
 import li.barlog.service.CurrentUserService;
 //shobhanath
+//bcd
 @SpringBootApplication
 public class App implements CommandLineRunner {
 	public static void main(String[] args) {
